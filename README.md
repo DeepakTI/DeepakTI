@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeepakTI
-- 👀 I’m interested in building cool products in Cloud native fashion that are performant and scale well.
+- 👀 I’m interested in building cool products in Cloud native technologies those are performant, reliable and scale well !
 - 🌱 I’m having experice in Docker, K8s, Golang, gRPC, Python and Java
 - 💞️ I’m looking to collaborate on K8s based development.
 - 📫 I can be reached at techi07deepakti@gmail.com
